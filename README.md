@@ -5,7 +5,7 @@ Greetings to all challenge enthusiasts! Dive into this reverse engineering task 
 **Objective**: Develop a `Key Gen` – a script or function that consistently produces valid keys for the provided program. While creating the key generator is the primary goal, you are also encouraged to find other methods to make the program return **Valid Key**.
 
 **Resources**:
-- A ZIP file containing:
+- A [ZIP file](https://github.com/DylanMcBean/CrackMe1/releases/tag/builds) containing:
   - Compiled versions of the challenge for both Linux and Windows.
 - The source code. (To avoid spoilers, don't read this)
 - A list of 1000 valid keys for pattern analysis enthusiasts.
