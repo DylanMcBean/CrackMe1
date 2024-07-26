@@ -1,4 +1,4 @@
-## Reverse Engineering Challenge
+## Reverse Engineering / Key Gen Challenge
 
 Greetings to all challenge enthusiasts! Dive into this reverse engineering task designed to put your skills to the test.
 
